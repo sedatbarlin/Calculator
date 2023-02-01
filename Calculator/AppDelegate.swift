@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by Afraz Siddiqui on 2/8/20.
-//  Copyright © 2020 ASN GROUP LLC. All rights reserved.
-//
+//  Created by Sedat Barlin on 21.12.2022.
 
 import UIKit
 
