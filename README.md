@@ -1,6 +1,6 @@
 # Calculator
  Calculator app with swift
- Calculator Appinnggg
+ Calculator App
 
 
 
