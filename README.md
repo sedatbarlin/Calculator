@@ -1,5 +1,5 @@
 # Calculator
- Calculator app with swif
+ Calculator app with swift
 
 
 
